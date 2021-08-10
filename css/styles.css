@@ -1,0 +1,11 @@
+h1 {
+  font-size: large;
+  font-weight: bold;
+  background: rgb(185, 219, 233);
+  margin: 0;
+}
+
+p {
+  background: skyblue;
+  margin: 0;
+}
