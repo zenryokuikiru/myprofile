@@ -1,11 +1,13 @@
 h1 {
-  font-size: large;
+  font-size: 30px;
   font-weight: bold;
-  background: rgb(185, 219, 233);
-  margin: 0;
+  margin-top: 20px;
+  border-bottom: skyblue;
+  border-left: 8px solid skyblue;
 }
 
 p {
-  background: skyblue;
-  margin: 0;
+  margin-top: 20px;
+  padding-left: 5px;
+  
 }
