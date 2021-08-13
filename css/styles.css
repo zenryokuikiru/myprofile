@@ -7,13 +7,8 @@ h1 {
   border-right: 8px solid skyblue;
 }
 
-p {
+.description{
   margin-top: 20px;
   padding-left: 20px;
-  
-}
-
-h2 {
-  margin-top: 20px;
-  padding-left: 20px;
+  font-weight: 100;    
 }
