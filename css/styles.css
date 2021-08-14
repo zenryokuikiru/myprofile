@@ -1,15 +1,9 @@
 h1 {
   color: rgb(40, 8, 156);
-  font-size: 30px;
-  font-weight: bold;
-  margin-top: 20px;
-  border-bottom: skyblue;
-  border-left: 8px solid skyblue;
-  border-right: 8px solid skyblue;
+  font-size: 26px;
+  }
+
+h2 {
+  font-size: medium;
 }
 
-.description{
-  margin-top: 20px;
-  padding-left: 20px;
-  font-weight: 100;    
-}
