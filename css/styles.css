@@ -1,9 +1,27 @@
 h1 {
   color: rgb(40, 8, 156);
   font-size: 26px;
+  text-align: center;
   }
 
 h2 {
   font-size: medium;
+  font-weight: normal;
 }
+
+.history {
+  font-weight: normal;
+}
+
+th {
+  font-weight: normal;
+}
+
+ol {
+  color: rgb(162, 24, 226);
+  text-decoration: underline;
+}
+
+
+
 
