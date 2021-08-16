@@ -1,12 +1,22 @@
 h1 {
-  color: rgb(40, 8, 156);
   font-size: 26px;
   text-align: center;
-  }
+  background-color: rgba(190, 245, 245, 0.5);
+  margin: 0px;
+  padding: 0px;
+  font-weight: 600;
+  color: rgb(12, 75, 247);
+}
+
+main {
+  color: black;
+  background-color: rgba(190, 245, 229, 0.5);
+}
 
 h2 {
   font-size: medium;
   font-weight: normal;
+  background-color: rgba(186, 187, 248, 0.5);
 }
 
 .history {
@@ -18,8 +28,12 @@ th {
 }
 
 ol {
-  color: rgb(226, 24, 149);
+  color: rgb(12, 75, 247);
   text-decoration: underline;
+}
+
+ul {
+  margin: 0px;
 }
 
 
