@@ -1,7 +1,7 @@
 h1 {
   font-size: 26px;
   text-align: center;
-  background-color: rgba(190, 245, 245, 0.5);
+  background-color: rgba(190, 245, 229, 0.5);
   margin: 0px;
   padding: 0px;
   font-weight: 600;
@@ -13,10 +13,11 @@ main {
   background-color: rgba(190, 245, 229, 0.5);
 }
 
-h2 {
+.info {
   font-size: medium;
   font-weight: normal;
-  background-color: rgba(186, 187, 248, 0.5);
+  background-color: rgba(186, 187, 248, 0.2);
+  margin: 0px;
 }
 
 .history {
@@ -27,13 +28,31 @@ th {
   font-weight: normal;
 }
 
-ol {
-  color: rgb(12, 75, 247);
-  text-decoration: underline;
+.why {
+  text-decoration: red wavy underline;
 }
 
 ul {
   margin: 0px;
+}
+
+hr {
+  margin: 0px;
+  border: 0px;
+}
+
+article {
+  background-color: rgba(186, 187, 248, 0.2);
+}
+
+article h1 {
+  font-size: 26px;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  font-weight: 600;
+  color: rgb(12, 75, 247);
+  background-color: rgba(186, 187, 248, 0.2);
 }
 
 
